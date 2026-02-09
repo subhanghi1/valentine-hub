@@ -1,0 +1,12 @@
+{
+  "name": "valentine-app",
+  "version": "1.0.0",
+  "description": "Cute Valentine Day webpage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
